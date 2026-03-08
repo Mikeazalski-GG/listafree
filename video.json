@@ -1,0 +1,20 @@
+[
+  {
+    "tema": "Sugestão de Compra",
+    "videos": [
+      { 
+        "titulo": "1. Ajuste de Coluna", 
+        "url": "https://raw.githubusercontent.com/Mikeazalski-GG/listafree/main/Ajuste%20de%20Coluna%20(Sugest%C3%A3o%20de%20compra).mp4" 
+      }
+    ]
+  },
+  {
+    "tema": "Benefício Fiscal",
+    "videos": [
+      { 
+        "titulo": "Como configurar", 
+        "url": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/video_fiscal.mp4" 
+      }
+    ]
+  }
+]
